@@ -1,0 +1,9 @@
+.middle {
+    vertical-align: middle;
+    text-align:center;
+    left:50%;
+    position:relative; /*makes left effective*/
+    display:table-cell;
+  
+}
+
